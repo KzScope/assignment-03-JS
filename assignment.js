@@ -1,4 +1,4 @@
-//repo link: 
+//repo link: https://github.com/KzScope/assignment-03-JS
 // naming convention 
 // kilometerToMeter
 // budgetCalculator
